@@ -1,0 +1,16 @@
+{
+  "771FC92D-DDDC-0349-2F6D-60CF84769E5B": { "status": "approved", "nombre": "Manguita" },
+  "4C4C4544-0043-4210-8037-B1C04F395932": { "status": "approved", "nombre": "JESUS" },
+  "B95E93D8-13D3-118A-4416-82201A582B09": { "status": "approved", "nombre": "SCARFACE" },
+  "4C4C4544-005A-5810-804E-C4C04F445833": { "status": "approved", "nombre": "amaury" },
+  "E1DA2946-0954-F799-0810-813A6961BFAC": { "status": "approved", "nombre": "OMARPC" },
+  "32444335-3830-4230-4D47-474238304435": { "status": "approved", "nombre": "ariel" },
+  "F8682604-2FF5-5AFB-987C-26C45F0E4997": { "status": "approved", "nombre": "peter" },
+  "89C039CC-37DE-04FD-4064-581122197D81": { "status": "approved", "nombre": "GERALD" },
+  "4C4C4544-0056-3710-8037-C3C04F513034": { "status": "approved", "nombre": "movie" },
+  "236594BE-2B01-11EC-80F0-84A93857B960": { "status": "approved", "nombre": "moviee" },
+  "34444335-3634-4B30-5837-6C0B5E858A8F": { "status": "approved", "nombre": "lala" },
+  "4C4C4544-0051-3510-8044-B1C04F573534": { "status": "approved", "nombre": "andy" },
+  "3E006B9C-66E3-0000-0000-000000000000": { "status": "approved", "nombre": "enger" },
+  "9BC94D56-50F5-C9FE-7AE0-BB6D01495B41": { "status": "approved", "nombre": "windows11" }
+}
